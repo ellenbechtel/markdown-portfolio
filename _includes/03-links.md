@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Map of Beaver Island](https://mapcarta.com/22512068)
